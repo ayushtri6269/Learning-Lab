@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Multimodal Chat",
+  "description": "An intelligent chat application powered by Gemini. Users can ask questions with text and upload images for analysis, receiving insightful responses from the AI model.",
+  "requestFramePermissions": []
+}
