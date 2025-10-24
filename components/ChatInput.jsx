@@ -1,4 +1,3 @@
-
 import React, { useState, useRef } from 'react';
 import { SendIcon, PaperclipIcon, CloseIcon } from './icons';
 

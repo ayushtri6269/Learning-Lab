@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import ChatHistory from './components/ChatHistory';
 import ChatInput from './components/ChatInput';
